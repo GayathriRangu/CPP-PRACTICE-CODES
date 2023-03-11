@@ -1,0 +1,1 @@
+Given a text file (you may take any random text file), write a C program to generate an output text file as follows.
